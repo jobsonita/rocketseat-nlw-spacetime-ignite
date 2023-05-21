@@ -21,7 +21,7 @@ export function Profile() {
           href="/api/auth/logout"
           className="block text-red-400 hover:text-red-300"
         >
-          Quero sair
+          Deslogar
         </a>
       </p>
     </div>
