@@ -12,7 +12,7 @@
 
 ## :hammer: Status
 
-> :construction: Ongoing :wrench:
+> :white_check_mark: Finished :lock:
 
 ## :bookmark: Content Table
 <!--ts-->
