@@ -3,7 +3,7 @@
 ![Expo version](https://img.shields.io/badge/expo-48.0.15-blue)
 ![React version](https://img.shields.io/badge/react-18.2.0-blue)
 ![React Native version](https://img.shields.io/badge/react--native-0.71.7-blue)
-![Tailwindcss version](https://img.shields.io/badge/react-3.3.2-blue)
+![Tailwindcss version](https://img.shields.io/badge/tailwindcss-3.3.2-blue)
 ![Typescript version](https://img.shields.io/badge/typescript-4.9.4-lightgrey)
 
 # :rocket::seat: NLW-Spacetime - Ignite Track
